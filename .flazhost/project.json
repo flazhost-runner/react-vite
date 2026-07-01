@@ -1,0 +1,11 @@
+{
+  "name": "React (Vite)",
+  "language": "javascript",
+  "install": [
+    "npm install"
+  ],
+  "migrate": [],
+  "start": "npm run dev -- --port 5173",
+  "url": "http://localhost:5173",
+  "readyPath": "/"
+}
